@@ -1,0 +1,245 @@
+body{
+	background-image:url(images/img.jpg);
+	margin:25px;
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+#body2{
+	background-image:url(images/imge4.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	margin:25px;
+}
+#table{
+	background-color:#CCC;
+	box-radius:15px 0px 15px 0px ;
+}
+#body3{
+	background-image:url(images/pigi.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	margin:25px;
+}
+#div1{
+      height: 20px;
+      width: auto;
+      border:5px ;
+      padding-bottom: 25px;
+}
+#man{
+    text-align: center;
+	background-position:center;
+	background-color:#0F0;
+    width: 950px;
+    height: 50px;
+	border:outset;
+}
+#g1{
+	border-radius:15px 0px 15px 0px ;
+	size:20px;
+}
+#g1:hover{
+	background-image:url(nicaise.jpg);
+	width:300px;
+	height:300px;
+	
+}
+	
+#g2{
+	border-radius:15px 0px 15px 0px ;
+	size:20px;
+}
+
+#g2:hover{
+	background-image:url(images/ca.jpg);
+	width:300px;
+	height:300px;
+	
+}
+#g3{
+	border-radius:15px 0px 15px 0px ;
+	size:20px;
+}
+
+#g3:hover{
+	background-image:url(images/ga.jpg);
+	width:300px;
+	height:300px;
+	
+}
+#g4{
+	border-radius:15px 0px 15px 0px ;
+	size:20px;
+}
+
+#g4:hover{
+	background-image:url(images/pa.jpg);
+	width:300px;
+	height:300px;
+	
+}
+#g5{
+	border-radius:15px 0px 15px 0px ;
+	size:20px;
+}
+
+#g5:hover{
+	background-image:url(images/ka.jpg);
+	width:300px;
+	height:300px;
+	
+}
+#g6{
+	border-radius:15px 0px 15px 0px ;
+	size:20px;
+}
+
+#g6:hover{
+	background-image:url(images/les dfs.jpg);
+	width:300px;
+	height:300px;
+	
+}
+#g7{
+	border-radius:15px 0px 15px 0px ;
+	size:20px;
+}
+
+#g7:hover{
+	background-image:url(nicaise.jpg);
+	width:150px;
+	height:150px;
+	
+}
+            
+a{
+	color:#0F0;
+	font-family:Arial, Helvetica, sans-serif;
+}
+            
+            
+#ul1{
+     background-color: #0131B4;
+     list-style: none;
+}
+            
+            
+#li1{
+	text-transform:lowercase;
+     height: auto;
+     background-color:blue;
+     color:blue; 
+     text-align: center;
+     font-size 1.1em;
+     border: none;
+	 list-style:none;
+                
+}
+            
+#li1:hover{
+          text-transform: capitalize;
+          background-color:white;
+          color:black; 
+		  text-align: center;
+          font-size: 1em;
+          border: none;
+                
+}
+                        
+#li2{
+	text-transform:lowercase;
+    height: auto;
+    background-color:blue;
+    color:black;
+    text-align: center;
+    font-size: 1.1em;
+    border: none;    
+}
+       
+         
+#li2:hover{
+          text-transform: capitalize;
+          background-color:white;
+          coclor:black; 
+          text-align: center;
+          font-size: 1em;
+          border: none;
+}
+            
+            
+#li3{
+	 text-transform:lowercase;
+     height: auto;
+     background-color:blue;
+     color:black; 
+     text-align: center;
+     font-size: 1.1em;
+     border: none;    
+}
+            
+            
+#li3:hover{
+	      text-transform:capitalize;
+		  background-color:white;
+          color:black; 
+          text-align: center;
+          font-size: 1em;
+          border: none;
+                
+            
+}
+#rech{
+	height:22px;
+	background-color:#666;
+	background-size:cover;
+}
+#bloc1 {
+	width:400px:;
+	height:400px;
+	margin-top:25px;
+	background-image:url(images/pigi.jpg);
+	background-size:center;
+	background-repeat:no repeat;
+	border-radius:20px 0px 20px 0px;
+	box-shadow:2px 10px 2px black;
+	padding:50px 50px 50px 50px;
+	
+	
+}
+#bloc1:hover{
+	background-image:url(images/pigier.jpg);
+	background-size:cover;
+	border-radius:10px 0px 10px opx;
+	box-shadow:10px 5px 2px black;
+	margin-top:25px;
+	background-repeat:no-repeat;
+}
+#text {
+	 background-color:#CCC;
+	 margin-top:25px;
+	 background-size:cover;
+	 border-radius:30px 30px 30px 30px;
+	 box-shadow:10px 10px 5px 0px yelow;
+	 font-family:Arial, Helvetica, sans-serif;
+	 
+}
+#la{
+	background-position:center;
+	boder-radius:15px 15px 15px 15px;
+	margin-top:25px;
+	
+	
+}
+
+#bloc2{
+	border-bottom-color:#C00;
+	height:20px;
+	margin-top:20px;
+	margin-left:20px;
+	margin-right:20px;
+	margin-top:25px;
+	text-decoration:overline;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:center;
+}
+
